@@ -8,4 +8,4 @@ Basic Material Design Animation recreated with Swift.
 * Animation curve, timing, visual does not an officially represent Google Design's one by any means. 
 
 
-If you have any questions on this example, please do reach out to @radiofun8 at Twitter
+If you have any questions on this example, please do reach out to @radiofun8[https://twitter.com/radiofun8]
